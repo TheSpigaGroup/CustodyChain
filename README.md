@@ -1,5 +1,5 @@
 # CustodyChain
-
+![logo](https://github.com/TheSpigaGroup/CustodyChain/blob/master/assets/custodychain.png)
 ## Inspiration
 The inspiration for CustodyChain came from the fact that we believe that the process of moving physical assets by way of a third party needs improvement.
 
