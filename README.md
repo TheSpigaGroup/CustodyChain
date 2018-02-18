@@ -9,9 +9,6 @@ CustodyChain removes the influence of third party when transferring custody of p
 ## How we built it
 We starting by laying out the incentives and structure of the bigger idea which is the really aligning incentives of the actors in a transfer of custody. From there it was deciding how to represent an idea that is much vaster than one use case.
 
-**Simply put:**
-Heart
-
 ## Challenges we ran into
 We mostly ran into development problems that seemed small at first but took half the night trying to figure out.
 
