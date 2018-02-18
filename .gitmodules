@@ -1,0 +1,9 @@
+[submodule "contracts"]
+	path = contracts
+	url = https://github.com/TheSpigaGroup/eth-denver-contracts
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/TheSpigaGroup/eth-denver-mobile
+[submodule "esp32"]
+	path = esp32
+	url = https://github.com/TheSpigaGroup/eth-denver-esp32
